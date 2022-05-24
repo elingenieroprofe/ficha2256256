@@ -1,3 +1,4 @@
+esto esta mal escribido
 <?php
             ///Controllers///
 require_once 'Controller/user.controller.php';
