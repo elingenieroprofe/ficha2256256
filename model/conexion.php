@@ -32,7 +32,8 @@
         }
     }
 
-    //$objcon = new Conexion();
-    //$objcon ->getConnect();
+/*
+probando
+*/
 
 ?>
