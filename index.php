@@ -1,6 +1,5 @@
-<!--Esto es una asaña-->
+<!--esto es de aprendiz-->
 hola conflic
-
 <?php
             ///Controllers///
 require_once 'Controller/user.controller.php';
