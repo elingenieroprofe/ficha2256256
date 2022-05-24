@@ -1,4 +1,8 @@
 <!-- esto sera un probleema -->
+<!--notas del profe
+un privilegio
+-->
+
 <?php
             ///Controllers///
 require_once 'Controller/user.controller.php';
