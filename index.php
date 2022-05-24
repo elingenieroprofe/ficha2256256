@@ -1,7 +1,4 @@
-<!-- esto sera un probleema -->
-<!--notas del profe
-un privilegio
--->
+<!--esto esta mal escribido asi es-->
 
 <?php
             ///Controllers///
