@@ -32,7 +32,5 @@
         }
     }
 
-    $objcon = new Conexion();
-    $objcon ->getConnect();
 
 ?>

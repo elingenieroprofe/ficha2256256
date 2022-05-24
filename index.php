@@ -1,5 +1,4 @@
 <!--esto es de aprendiz-->
-hola conflic
 <?php
             ///Controllers///
 require_once 'Controller/user.controller.php';
@@ -13,3 +12,5 @@ $objArranque = new Template();
 $objArranque -> getIntro();
 
 ?>
+
+3 X 3
